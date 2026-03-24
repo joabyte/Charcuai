@@ -1,1 +1,3 @@
-flask\nanthropic\ngunicorn
+flask
+anthropic
+gunicorn
